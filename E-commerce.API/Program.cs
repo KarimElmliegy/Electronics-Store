@@ -1,12 +1,14 @@
 
+using E_commerce.Core.Interfaces;
 using E_commerce.Infrastructure.Data;
+using E_commerce.Infrastructure.Data.SeedData;
 using Microsoft.EntityFrameworkCore;
 
 namespace E_commerce.API
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
 
@@ -22,8 +24,28 @@ namespace E_commerce.API
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
             });
 
+            builder.Services.AddScoped<IProductRepository, ProductRepository>(); 
+            builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+
+
+
+
             var app = builder.Build();
 
+
+            try
+            {
+                using var scope = app.Services.CreateScope();
+                var services = scope.ServiceProvider;
+                var context = services.GetRequiredService<AppDbContext>();
+                await context.Database.MigrateAsync();
+                await StoreContextSeed.SeddAsynch(context);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex);
+                throw;
+            }
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {

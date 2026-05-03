@@ -1,0 +1,272 @@
+[
+  {
+    "Name": "Angular Speedster Board 2000",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 200,
+    "PictureUrl": "/images/products/sb-ang1.png",
+    "Type": "Boards",
+    "Brand": "Angular",
+    "QuantityInStock": 82
+  },
+  {
+    "Name": "Green Angular Board 3000",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 150,
+    "PictureUrl": "/images/products/sb-ang2.png",
+    "Type": "Boards",
+    "Brand": "Angular",
+    "QuantityInStock": 75
+  },
+  {
+    "Name": "Core Board Speed Rush 3",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 180,
+    "PictureUrl": "/images/products/sb-core1.png",
+    "Type": "Boards",
+    "Brand": "NetCore",
+    "QuantityInStock": 3
+  },
+  {
+    "Name": "Net Core Super Board",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 300,
+    "PictureUrl": "/images/products/sb-core2.png",
+    "Type": "Boards",
+    "Brand": "NetCore",
+    "QuantityInStock": 52
+  },
+  {
+    "Name": "React Board Super Whizzy Fast",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 250,
+    "PictureUrl": "/images/products/sb-react1.png",
+    "Type": "Boards",
+    "Brand": "React",
+    "QuantityInStock": 97
+  },
+  {
+    "Name": "Typescript Entry Board",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 120,
+    "PictureUrl": "/images/products/sb-ts1.png",
+    "Type": "Boards",
+    "Brand": "Typescript",
+    "QuantityInStock": 37
+  },
+  {
+    "Name": "Core Blue Hat",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 10,
+    "PictureUrl": "/images/products/hat-core1.png",
+    "Type": "Hats",
+    "Brand": "NetCore",
+    "QuantityInStock": 32
+  },
+  {
+    "Name": "Green React Woolen Hat",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 8,
+    "PictureUrl": "/images/products/hat-react1.png",
+    "Type": "Hats",
+    "Brand": "React",
+    "QuantityInStock": 6
+  },
+  {
+    "Name": "Purple React Woolen Hat",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 15,
+    "PictureUrl": "/images/products/hat-react2.png",
+    "Type": "Hats",
+    "Brand": "React",
+    "QuantityInStock": 17
+  },
+  {
+    "Name": "Blue Code Gloves",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 18,
+    "PictureUrl": "/images/products/glove-code1.png",
+    "Type": "Gloves",
+    "Brand": "VS Code",
+    "QuantityInStock": 74
+  },
+  {
+    "Name": "Green Code Gloves",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 15,
+    "PictureUrl": "/images/products/glove-code2.png",
+    "Type": "Gloves",
+    "Brand": "VS Code",
+    "QuantityInStock": 19
+  },
+  {
+    "Name": "Purple React Gloves",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+    "Price": 16,
+    "PictureUrl": "/images/products/glove-react1.png",
+    "Type": "Gloves",
+    "Brand": "React",
+    "QuantityInStock": 77
+  },
+  {
+    "Name": "Green React Gloves",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 14,
+    "PictureUrl": "/images/products/glove-react2.png",
+    "Type": "Gloves",
+    "Brand": "React",
+    "QuantityInStock": 45
+  },
+  {
+    "Name": "Redis Red Boots",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 250,
+    "PictureUrl": "/images/products/boot-redis1.png",
+    "Type": "Boots",
+    "Brand": "Redis",
+    "QuantityInStock": 49
+  },
+  {
+    "Name": "Core Red Boots",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 189.99,
+    "PictureUrl": "/images/products/boot-core2.png",
+    "Type": "Boots",
+    "Brand": "NetCore",
+    "QuantityInStock": 28
+  },
+  {
+    "Name": "Core Purple Boots",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 199.99,
+    "PictureUrl": "/images/products/boot-core1.png",
+    "Type": "Boots",
+    "Brand": "NetCore",
+    "QuantityInStock": 69
+  },
+  {
+    "Name": "Angular Purple Boots",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 150,
+    "PictureUrl": "/images/products/boot-ang2.png",
+    "Type": "Boots",
+    "Brand": "Angular",
+    "QuantityInStock": 35
+  },
+  {
+    "Name": "Angular Blue Boots",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 180,
+    "PictureUrl": "/images/products/boot-ang1.png",
+    "Type": "Boots",
+    "Brand": "Angular",
+    "QuantityInStock": 27
+  },
+  {
+    "Name": "Raspberry Pi 5 Board 4GB",
+    "Description": "Single-board computer Raspberry Pi 5 with 4GB RAM.",
+    "Price": 120,
+    "PictureUrl": "/images/products/raspberrypi5_4gb.jpg",
+    "Type": "Boards",
+    "Brand": "Raspberry Pi",
+    "QuantityInStock": 20
+  },
+  {
+    "Name": "Raspberry Pi 5 Board 8GB",
+    "Description": "Single-board computer Raspberry Pi 5 with 8GB RAM.",
+    "Price": 150,
+    "PictureUrl": "/images/products/raspberrypi5_8gb_1.jpg",
+    "Type": "Boards",
+    "Brand": "Raspberry Pi",
+    "QuantityInStock": 20
+  },
+  {
+    "Name": "Raspberry Pi 5 Power Supply 27W",
+    "Description": "Official USB-C power adapter for Raspberry Pi 5.",
+    "Price": 25,
+    "PictureUrl": "/images/products/powerSubbly_1.jpg",
+    "Type": "Accessories",
+    "Brand": "Raspberry Pi",
+    "QuantityInStock": 30
+  },
+  {
+    "Name": "Raspberry Pi 5 Case Red White",
+    "Description": "Protective case for Raspberry Pi 5.",
+    "Price": 15,
+    "PictureUrl": "/images/products/Case_2.jpg",
+    "Type": "Accessories",
+    "Brand": "Raspberry Pi",
+    "QuantityInStock": 30
+  },
+  {
+    "Name": "Raspberry Pi 5 Case (Alt)",
+    "Description": "Alternative Raspberry Pi case design.",
+    "Price": 15,
+    "PictureUrl": "/images/products/Case_3.jpg",
+    "Type": "Accessories",
+    "Brand": "Raspberry Pi",
+    "QuantityInStock": 20
+  },
+  {
+    "Name": "Raspberry Pi NVMe Adapter Board",
+    "Description": "Adapter board for connecting SSD to Raspberry Pi.",
+    "Price": 20,
+    "PictureUrl": "/images/products/Easy_Adabtor_3.jpg",
+    "Type": "Adapters",
+    "Brand": "Generic",
+    "QuantityInStock": 40
+  },
+  {
+    "Name": "Micro HDMI to HDMI Adapter",
+    "Description": "Adapter for Raspberry Pi display output.",
+    "Price": 8,
+    "PictureUrl": "/images/products/Easy_Adabtor_4.jpg",
+    "Type": "Cables",
+    "Brand": "Generic",
+    "QuantityInStock": 50
+  },
+  {
+    "Name": "SSD Expansion Board",
+    "Description": "Expansion board for SSD storage.",
+    "Price": 18,
+    "PictureUrl": "/images/products/Hatssd_1.jpg",
+    "Type": "Storage",
+    "Brand": "Generic",
+    "QuantityInStock": 35
+  },
+  {
+    "Name": "SSD Expansion Board (Alt)",
+    "Description": "Alternative SSD expansion module.",
+    "Price": 18,
+    "PictureUrl": "/images/products/Hatssd_2.jpg",
+    "Type": "Storage",
+    "Brand": "Generic",
+    "QuantityInStock": 25
+  },
+  {
+    "Name": "NVMe M.2 SSD PCIe 4.0",
+    "Description": "High-speed NVMe SSD up to 7400MB/s.",
+    "Price": 120,
+    "PictureUrl": "/images/products/Lexarhard_1.jpg",
+    "Type": "Storage",
+    "Brand": "Lexar",
+    "QuantityInStock": 10
+  },
+  {
+    "Name": "NVMe M.2 SSD PCIe 4.0 (Alt)",
+    "Description": "High-performance SSD for gaming and heavy workloads.",
+    "Price": 200,
+    "PictureUrl": "/images/products/Lexarhard_6.jpg",
+    "Type": "Storage",
+    "Brand": "Lexar",
+    "QuantityInStock": 8
+  },
+  {
+    "Name": "Raspberry Pi Display Screen",
+    "Description": "Touchscreen display compatible with Raspberry Pi.",
+    "Price": 60,
+    "PictureUrl": "/images/products/Screen_2.jpg",
+    "Type": "Displays",
+    "Brand": "Generic",
+    "QuantityInStock": 15
+  }
+]
